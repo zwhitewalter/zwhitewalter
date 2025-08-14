@@ -6,6 +6,4 @@
 Here are some ideas to get you started:
 
 -->
-- 🌱 I’m currently learning how to use GitHub.
-- 😄 Pronouns: She/her
-- ⚡ Hobbies: video games, movies, shows, listening to music, shopping
+
